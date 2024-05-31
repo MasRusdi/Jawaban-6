@@ -1,1 +1,2 @@
-RESTful API adalah API yang mengikuti gaya arsitektur REST yang memudahkan komunikasi antara aplikasi dan pengguna.
+RESTful API adalah API yang mengikuti gaya arsitektur REST yang memudahkan komunikasi antara aplikasi dan pengguna. nama: faiq maulana a(13)
+RESTful API adalah API yang mengikuti gaya arsitektur REST yang memudahkan komunikasi antara aplikasi dan pengguna. nama: slamet riski h(32)
